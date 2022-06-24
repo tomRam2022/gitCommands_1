@@ -3,7 +3,7 @@ function add(num1, num2) {
 }
 
 console.log(add(2, 3));
-console.log(add(3, 6));
+console.log(add(3, 9));
 
 if (true) {
   console.log('Technosoft is the best school in town');
